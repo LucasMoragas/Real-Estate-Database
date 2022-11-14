@@ -1,2 +1,2 @@
 # PROVA-SQL
-No presente repositório está descrito as linhas de comandos para resolução da prova de Banco de Dados do curso de Engenharia da Computação do IFTM Campus Avançado Parque Tecnológico
+No presente repositório está descrito as linhas de comandos para resolução da prova de Banco de Dados do curso de Engenharia da Computação do IFTM Campus Avançado Parque Tecnológico.
